@@ -7,14 +7,14 @@ __español__ |
 [русский](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/README-RU.md) |
 [中文](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/README-ZH.md) |
 
-# img
+## img
 
 Imágenes tomadas de patentes referenciadas relativas a la máquina de escribir Mingkwai.
 
-# refs
+## refs
 
 Patentes sobre la máquina de escribir Mingkwai en [Estados](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/US2613795A.pdf) [Unidos](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/US2613794A.pdf), [Reino Unido](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/GB711462A.pdf), [Francia](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/FR984303A.pdf), [Alemania Federal](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/DE922774C.pdf) y [Suiza](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/CH327313A.pdf), [tabla de caracteres](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/字表·明快華文打字機.pdf) y [extracto del _Diccionario Moderno Chino-Inglés_](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/林語堂《當代漢英詞典》摘錄.pdf).
 
-# Agradecimientos Especiales
+## Agradecimientos Especiales
 
 [divertingPan](https://github.com/divertingPan)
