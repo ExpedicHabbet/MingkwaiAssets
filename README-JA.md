@@ -15,6 +15,11 @@ __日本語__ |
 
 [アメ](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/US2613795A.pdf)[リカ](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/US2613794A.pdf)、[イギリス](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/GB711462A.pdf)、[フランス](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/FR984303A.pdf)、[連邦ドイツ](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/DE922774C.pdf)、[スイス](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/CH327313A.pdf)におけるミンクアイタイプライターに関する特許、[文字表](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/字表·明快華文打字機.pdf)および[『現代中国語英語辞書』からの抜粋](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/林語堂《當代漢英詞典》摘錄.pdf)です。
 
+## 貢献する方法
+
+このリポジトリをフォークしてから、フォークされたリポジトリにファイルをアップロードし、私のリポジトリでプルリクエストをします。
+あなたはそれに問題がある場合にも、イシューを作ることができます。
+
 ## 特別感謝
 
 [divertingPan](https://github.com/divertingPan)

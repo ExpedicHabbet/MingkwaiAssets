@@ -13,7 +13,12 @@ Images taken from referenced patents relative to Mingkwai Typewriter.
 
 ## refs
 
-Patents about Mingkwai Typewriter in [United](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/US2613795A.pdf) [States](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/US2613794A.pdf), [United Kingdom](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/GB711462A.pdf), [France](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/FR984303A.pdf), [Federal Germany](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/DE922774C.pdf) and [Switzerland](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/CH327313A.pdf), [characters table](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/字表·明快華文打字機.pdf) and [excerpt from _Modern Chinese-English Dictionary_](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/林語堂《當代漢英詞典》摘錄.pdf).
+Patents about Mingkwai Typewriter in [United ](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/US2613795A.pdf)[States](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/US2613794A.pdf), [United Kingdom](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/GB711462A.pdf), [France](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/FR984303A.pdf), [Federal Germany](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/DE922774C.pdf) and [Switzerland](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/CH327313A.pdf), [characters table](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/字表·明快華文打字機.pdf) and [excerpt from _Modern Chinese-English Dictionary_](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/林語堂《當代漢英詞典》摘錄.pdf).
+
+## How to Contribute
+
+Fork this repository then upload files into the forked repository, and pull a request in my repository.
+You may also make an Issue if you have a problem on it.
 
 ## Special Thanks
 
