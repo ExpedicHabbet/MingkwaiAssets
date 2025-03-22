@@ -13,11 +13,12 @@ __中文__ |
 
 ## refs
 
-明快打字机在[美](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/US2613795A.pdf)[国](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/US2613794A.pdf)、[英国](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/GB711462A.pdf)、[法国](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/FR984303A.pdf)、[联邦德国](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/DE922774C.pdf)和[瑞士](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/CH327313A.pdf)的专利、[字表](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/字表·明快華文打字機.pdf)和[《当代汉英词典》摘录](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/林語堂《當代漢英詞典》摘錄.pdf)。
+明快打字机在[美](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/US2613795A.pdf)[国](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/US2613794A.pdf)、[英国](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/GB711462A.pdf)、[法国](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/FR984303A.pdf)、[联邦德国](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/DE922774C.pdf)和[瑞士](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/CH327313A.pdf)的专利、[字表](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/字表·明快華文打字機.pdf)、[《当代汉英词典》摘录](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/林語堂《當代漢英詞典》摘錄.pdf)和[林语堂纪录片（附繁体中文和英语字幕）](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/refs/林語堂紀錄片(1985年).mp4)。
 
 ## 如何贡献
 
 派生(Fork)此仓库(Repository)，然后上传文件到派生的仓库，并在我的仓库发出合并请求(Pull Request)。
+
 如果您有问题，您还可以制作工单(Issue)。
 
 ## 特别感谢
