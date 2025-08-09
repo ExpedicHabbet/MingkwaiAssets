@@ -9,7 +9,7 @@ __English__ |
 
 ## What is Mingkwai Typewriter?
 
-Mingkwai Typewriter is invented by Lin Yutang on May 22, 1947. It is 14" (36 cm) wide, 18" (46 cm) deep, 9" (23 cm) tall of slightly bigger than common typewriters. It uses a huge cylinder to store ten thousands of characters, a motor to drive, a character indexing method by looking at the top and bottom with confirming via screen (or “magic eye”). Unfortunately, its mass production isn’t achieved as its sophisticated structure. Now X-PIN and others are reengraving.
+Mingkwai Typewriter is invented by Lin Yutang on May 22, 1947. It is 14” (36 cm) wide, 18” (46 cm) deep, 9” (23 cm) tall of slightly bigger than common typewriters. It uses a huge cylinder to store ten thousands of characters, a motor to drive, a character indexing method by looking at the top and bottom with confirming via screen (or “magic eye”). Unfortunately, its mass production isn’t achieved as its sophisticated structure. Now X-PIN and others are reengraving.
 
 ## img
 
@@ -23,6 +23,7 @@ Patents about Mingkwai Typewriter in [United ](https://github.com/ExpedicHabbet/
 
 1. Popularization: [In typewriter era, how do we type a Chinese Character? [X-PIN]](https://www.bilibili.com/video/BV1eM4y1w7JF/)
 2. A simple reproduction: [[Student He] We made a Chinese typewriter...](https://www.bilibili.com/video/BV1Sk4y1471G/)
+3. Printing Cylinder Unit: [Mingkwai Typewriter - Characters](https://www.mfuns.net/video/50363)
 
 ## How to Contribute
 
@@ -33,3 +34,4 @@ You may also make an Issue if you have a problem on it.
 ## Special Thanks
 
 [divertingPan](https://github.com/divertingPan)
+[海德拉的奇幻宝箱](https://www.mfuns.net/member/34656)

@@ -7,9 +7,9 @@ __español__ |
 [русский](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/README-RU.md) |
 [中文](https://github.com/ExpedicHabbet/MingkwaiAssets/blob/main/README-ZH.md) |
 
-## ¿Qué es la máquina de escribir Mingkwai?
+## ¿Qué es la Máquina de Escribir Mingkwai?
 
-La máquina de escribir Mingkwai es inventada por Lin Yutang el 22 de mayo de 1947. Tiene 14" (36 cm) de ancho, 18" (46 cm) de profundidad, 9" (23 cm) de alto o un poco más grande que las máquinas de escribir comunes. Utiliza un enorme cilindro para almacenar diez mil caracteres, un motor para conducir, un método de indexación de caracteres mirando hacia arriba y hacia abajo con confirmación a través de la pantalla (o “ojo mágico”). Desafortunadamente, su producción en masa no se logra como su sofisticada estructura. Ahora X-PIN y otros están volviendo a grabar.
+La Máquina de Escribir Mingkwai es inventada por Lin Yutang el 22 de mayo de 1947. Tiene 14” (36 cm) de ancho, 18” (46 cm) de profundidad, 9” (23 cm) de alto o un poco más grande que las máquinas de escribir comunes. Utiliza un enorme cilindro para almacenar diez mil caracteres, un motor para conducir, un método de indexación de caracteres mirando hacia arriba y hacia abajo con confirmación a través de la pantalla (o “ojo mágico”). Desafortunadamente, su producción en masa no se logra como su sofisticada estructura. Ahora X-PIN y otros están volviendo a grabar.
 
 ## img
 
@@ -23,6 +23,7 @@ Patentes sobre la máquina de escribir Mingkwai en [Estados ](https://github.com
 
 1. Popularización: [En la era de las máquinas de escribir, ¿cómo escribimos un carácter chino? [X-PIN]](https://www.bilibili.com/video/BV1eM4y1w7JF/)
 2. Una reproducción simple: [[Estudiante He] Hicimos una máquina de escribir china...](https://www.bilibili.com/video/BV1Sk4y1471G/)
+3. Unidad de Cilindro de Impresión: [Máquina de Escribir Mingkwai - Carácteres](https://www.mfuns.net/video/50363)
 
 ## Cómo Contribuir
 
@@ -33,3 +34,4 @@ También puede hacer una Incidencia si tiene un problema con él.
 ## Agradecimientos Especiales
 
 [divertingPan](https://github.com/divertingPan)
+[海德拉的奇幻宝箱](https://www.mfuns.net/member/34656)
