@@ -22,7 +22,7 @@ __日本語__ |
 ## その他の参考資料
 
 1. 普及：[タイプライター時代には、どのように漢字を入力するのでしょうか[X-PIN]](https://www.bilibili.com/video/BV1eM4y1w7JF/)
-2. 簡単な再現：[[ヘさん]私たちは中国のタイプライターを作りました。。。](https://www.bilibili.com/video/BV1Sk4y1471G/)
+2. 簡単な再現：[[ヘさん]私たちは中国語のタイプライターを作りました。。。](https://www.bilibili.com/video/BV1Sk4y1471G/)
 3. プリントシリンダーのユニット：[ミンクアイタイプライター・文字編](https://www.bilibili.com/video/BV1DvtezeE7c)
 
 ## 貢献する方法

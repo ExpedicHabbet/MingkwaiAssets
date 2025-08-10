@@ -27,9 +27,9 @@ Brevets sur la machine à écrire Mingkwaï aux [États-](https://github.com/Exp
 
 ## Comment contribuer
 
-Bifurquer ce référentiel, puis télécharger des fichiers dans le référentiel bifurqué et demander un ajout dans mon référentiel.
+Bifurquez (Fork) ce référentiel (Repository), puis téléchargez des fichiers dans le référentiel bifurqué et demandez un ajout (Pull Request) dans mon référentiel.
 
-Vous pouvez également faire un Ticket si vous avez un problème dessus.
+Vous pouvez également faire un Ticket (Issue) si vous avez un problème dessus.
 
 ## Remerciements spéciaux
 

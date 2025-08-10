@@ -27,7 +27,7 @@ Patents about Mingkwai Typewriter in [United ](https://github.com/ExpedicHabbet/
 
 ## How to Contribute
 
-Fork this repository then upload files into the forked repository, and pull a request in my repository.
+Fork this repository then upload files into the forked repository, and make a Pull Request in my repository.
 
 You may also make an Issue if you have a problem on it.
 
