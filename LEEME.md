@@ -23,7 +23,7 @@ Patentes sobre la máquina de escribir Mingkwai en [Estados ](https://github.com
 
 1. Popularización: [En la era de las máquinas de escribir, ¿cómo escribimos un carácter chino? [X-PIN]](https://www.bilibili.com/video/BV1eM4y1w7JF/)
 2. Una reproducción simple: [[Estudiante He] Hicimos una máquina de escribir china...](https://www.bilibili.com/video/BV1Sk4y1471G/)
-3. Unidad de Cilindro de Impresión: [Máquina de Escribir Mingkwai - Carácteres](https://www.mfuns.net/video/50363)
+3. Unidad de Cilindro de Impresión: [Máquina de Escribir Mingkwai - Carácteres](https://www.bilibili.com/video/BV1DvtezeE7c)
 
 ## Cómo Contribuir
 
@@ -34,4 +34,4 @@ También puede hacer una Incidencia si tiene un problema con él.
 ## Agradecimientos Especiales
 
 [divertingPan](https://github.com/divertingPan)
-[海德拉的奇幻宝箱](https://www.mfuns.net/member/34656)
+[海德拉的奇幻宝箱](https://space.bilibili.com/24730691)

@@ -23,7 +23,7 @@ __русский__ |
 
 1. Популяризация: [Как мы набираем китайский иероглиф в эпоху пишущих машинок? [X-PIN]](https://www.bilibili.com/video/BV1eM4y1w7JF/)
 2. Простое воспроизведение: [[Студент Хэ] Мы сделали китайскую пишущую машинку...](https://www.bilibili.com/video/BV1Sk4y1471G/)
-3. Блок цилиндра для печати: [Пишущая машинки Мингквай — символов](https://www.mfuns.net/video/50363)
+3. Блок цилиндра для печати: [Пишущая машинки Мингквай — символов](https://www.bilibili.com/video/BV1DvtezeE7c)
 
 ## Как внести свой вклад
 
@@ -34,4 +34,4 @@ __русский__ |
 ## Особая благодарность
 
 [divertingPan](https://github.com/divertingPan)
-[海德拉的奇幻宝箱](https://www.mfuns.net/member/34656)
+[海德拉的奇幻宝箱](https://space.bilibili.com/24730691)

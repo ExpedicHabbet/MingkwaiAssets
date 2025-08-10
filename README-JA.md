@@ -23,7 +23,7 @@ __日本語__ |
 
 1. 普及：[タイプライター時代には、どのように漢字を入力するのでしょうか[X-PIN]](https://www.bilibili.com/video/BV1eM4y1w7JF/)
 2. 簡単な再現：[[ヘさん]私たちは中国のタイプライターを作りました。。。](https://www.bilibili.com/video/BV1Sk4y1471G/)
-3. プリントシリンダーのユニット：[ミンクアイタイプライター・文字編](https://www.mfuns.net/video/50363)
+3. プリントシリンダーのユニット：[ミンクアイタイプライター・文字編](https://www.bilibili.com/video/BV1DvtezeE7c)
 
 ## 貢献する方法
 
@@ -34,4 +34,4 @@ __日本語__ |
 ## 特別感謝
 
 [divertingPan](https://github.com/divertingPan)
-[海德拉的奇幻宝箱](https://www.mfuns.net/member/34656)
+[海德拉的奇幻宝箱](https://space.bilibili.com/24730691)

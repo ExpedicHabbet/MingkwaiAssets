@@ -23,7 +23,7 @@ __中文__ |
 
 1. 科普：[在打字机时代，我们要怎么打出汉字【差评君】](https://www.bilibili.com/video/BV1eM4y1w7JF/)
 2. 一个简单的复现：[【何同学】我们做了一台中文打字机...](https://www.bilibili.com/video/BV1Sk4y1471G/)
-3. 印字滚筒单元：[明快打字机——字符篇](https://www.mfuns.net/video/50363)
+3. 印字滚筒单元：[明快打字机——字符篇](https://www.bilibili.com/video/BV1DvtezeE7c)
 
 ## 如何贡献
 
@@ -34,4 +34,4 @@ __中文__ |
 ## 特别感谢
 
 [divertingPan](https://github.com/divertingPan)
-[海德拉的奇幻宝箱](https://www.mfuns.net/member/34656)
+[海德拉的奇幻宝箱](https://space.bilibili.com/24730691)

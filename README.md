@@ -23,7 +23,7 @@ Patents about Mingkwai Typewriter in [United ](https://github.com/ExpedicHabbet/
 
 1. Popularization: [In typewriter era, how do we type a Chinese Character? [X-PIN]](https://www.bilibili.com/video/BV1eM4y1w7JF/)
 2. A simple reproduction: [[Student He] We made a Chinese typewriter...](https://www.bilibili.com/video/BV1Sk4y1471G/)
-3. Printing Cylinder Unit: [Mingkwai Typewriter - Characters](https://www.mfuns.net/video/50363)
+3. Printing Cylinder Unit: [Mingkwai Typewriter - Characters](https://www.bilibili.com/video/BV1DvtezeE7c)
 
 ## How to Contribute
 
@@ -34,4 +34,4 @@ You may also make an Issue if you have a problem on it.
 ## Special Thanks
 
 [divertingPan](https://github.com/divertingPan)
-[海德拉的奇幻宝箱](https://www.mfuns.net/member/34656)
+[海德拉的奇幻宝箱](https://space.bilibili.com/24730691)

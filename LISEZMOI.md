@@ -23,7 +23,7 @@ Brevets sur la machine à écrire Mingkwaï aux [États-](https://github.com/Exp
 
 1. Vulgarisation : [À l’ère de la machine à écrire, comment tape-t-on un caractère chinois ? [X-PIN]](https://www.bilibili.com/video/BV1eM4y1w7JF/)
 2. Une reproduction simple : [[Étudiant He] Nous avons fabriqué une machine à écrire chinoise...](https://www.bilibili.com/video/BV1Sk4y1471G/)
-3. Unité du cylindre d’impression : [Machine à écrire Mingkwaï - caratères](https://www.mfuns.net/video/50363)
+3. Unité du cylindre d’impression : [Machine à écrire Mingkwaï - caratères](https://www.bilibili.com/video/BV1DvtezeE7c)
 
 ## Comment contribuer
 
@@ -34,4 +34,4 @@ Vous pouvez également faire un Ticket si vous avez un problème dessus.
 ## Remerciements spéciaux
 
 [divertingPan](https://github.com/divertingPan)
-[海德拉的奇幻宝箱](https://www.mfuns.net/member/34656)
+[海德拉的奇幻宝箱](https://space.bilibili.com/24730691)
